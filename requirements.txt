@@ -1,0 +1,4 @@
+nsynth
+librosa
+requests
+numpy 
